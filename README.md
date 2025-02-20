@@ -17,3 +17,6 @@ This semester I am working on multiple BAIS projects at UIowa. My courses includ
 - Accounting Systems and Analytics
 
 In the future I will update my GitHub with relevant projects in BAIS and Finance!
+
+## Other profiles
+[LinkedIN](www.linkedin.com/in/dylan-abordo)
