@@ -8,7 +8,7 @@ During this assignment I used LinkedIN Learning and professor Kristine Arens ins
 1. Study the basics through LinkedIN Learning
 2. Create my repository and ReadMe file
 3. Update my ReadMe file with relevant information
-4. Practice different sytnax options
+4. Practice different sytnax options such as **Bold**
 
 ## Next Steps
 This semester I am working on multiple BAIS projects at UIowa. My courses include:
