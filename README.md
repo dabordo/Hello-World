@@ -1,4 +1,6 @@
-# Hello-World
-This repository is for GitHub practice.
+# Project Title
+**Hello-World**
 
-My first repository.
+##Description
+During this assignment I used LinkedIN Learning and professor Kristine Arens instruction to create my first repository.
+
